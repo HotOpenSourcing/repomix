@@ -15,7 +15,6 @@ website/server/.compile-cache/
 .DS_Store
 
 # Editor directories and files
-.vscode/
 .idea/
 
 # Test coverage
@@ -62,8 +61,8 @@ repomix-output.*
 
 # private files
 .private/
-.env
 
 # Nix
 result
 result-*
+config.bat
